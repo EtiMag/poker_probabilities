@@ -6,7 +6,7 @@ Through the game, it returns the odds against you based on your cards and the av
 
 Download the code with:
 ```
-git clone https://$GIT_USER_NAME:GITHUB_PERSONAL_ACCESS_TOKEN@github.com/EtiMag/poker_probabilities
+git clone https://$GIT_USER_NAME:$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/EtiMag/poker_probabilities
 cd poker_probabilities
 ```
 Compile using `make poker`
